@@ -1,5 +1,3 @@
-Perfeito, Diogenes! Vamos montar um exemplo de README.md bem estruturado com base nos requisitos do seu projeto. Aqui está um modelo que você pode adaptar conforme os detalhes do seu sistema:
-
 Projeto de Processamento de Imagens – Interface Gráfica com Funcionalidades Avançadas
 Este projeto tem como objetivo facilitar o processamento de imagens por meio de uma interface gráfica intuitiva (GUI), oferecendo um conjunto robusto de funcionalidades para análise, filtragem e transformação de imagens em níveis de cinza ou RGB.
 🔧 Funcionalidades Implementadas
