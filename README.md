@@ -31,18 +31,18 @@ Este projeto tem como objetivo facilitar o processamento de imagens por meio de 
 - Limiarização utilizando o método de Otsu
 - Funcionalidade Extra (Opcional)
 - Implementação de um descritor de forma, cor ou textura com agrupamento
-- 
+  
 🖼️ Suporte a Imagens
 
 - Suporte a imagens em níveis de cinza e RGB, png e jpg
 - Conversão automática de RGB para níveis de cinza antes do processamento
 - Carregamento e salvamento de imagens no sistema local
-- 
+  
 💻 Requisitos
 
 - Python 3.13.2
 - Bibliotecas instaladas: requirements.txt
-- 
+  
 ▶️ Como Executar
 
 - Clone o repositório:
